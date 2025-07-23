@@ -13,7 +13,9 @@ A modern, gender-specific BMI (Body Mass Index) calculator built with Flutter. T
 
 ## Screenshots
 
-*Screenshots will be added soon*
+<p align="center">
+  <img src="screenshots/app_screenshot.svg" alt="BMI Calculator App Screenshot" width="300">
+</p>
 
 ## How to Use
 
@@ -34,15 +36,15 @@ A modern, gender-specific BMI (Body Mass Index) calculator built with Flutter. T
 - Obese: BMI ≥ 30
 
 ### Female
-- Underweight: BMI < 18.5
-- Normal: BMI 18.5-23.9
+- Underweight: BMI < 18
+- Normal: BMI 18-23.9
 - Overweight: BMI 24-28.9
 - Obese: BMI ≥ 29
 
 ## Technical Details
 
 - Built with Flutter (latest stable version)
-- Uses Material Design principles
+- Uses Material Design 3 principles
 - Implements custom animations with AnimationController
 - Responsive design that works across different screen sizes
 - Uses Google Fonts for typography
